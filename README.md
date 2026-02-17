@@ -1,60 +1,61 @@
-📊 Data Analytics Project
-📌 Overview
+📊 **Data Analytics Project**
+
+ **Overview**
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data processing in Python to building an interactive Power BI dashboard and generating a final presentation report.
 
 The goal of this project is to showcase practical skills in:
 
-Data loading and preprocessing
+  Data loading and preprocessing
 
-Exploratory Data Analysis (EDA)
+  Exploratory Data Analysis (EDA)
 
-Data cleaning and transformation
+  Data cleaning and transformation
 
-SQL querying across multiple databases
+  SQL querying across multiple databases
 
-Dashboard development
+  Dashboard development
 
-Business reporting
+  Business reporting
 
 This project reflects real-world data analytics processes used in industry.
 
-📂 Dataset
+**📂 Dataset
+**
+  The dataset was loaded and processed using Python.
 
-The dataset was loaded and processed using Python.
+  It contains structured data suitable for analysis (CSV/Excel/Database source).
 
-It contains structured data suitable for analysis (CSV/Excel/Database source).
-
-Data includes numerical and categorical variables used for trend analysis and KPI creation.
+  Data includes numerical and categorical variables used for trend analysis and KPI creation.
 
 Note: The dataset used in this project is for educational/analytical purposes.
 
-🛠 Tools & Technologies
+**🛠 Tools & Technologies**
 
-Python (Pandas, NumPy, Matplotlib/Seaborn)
+  Python (Pandas, NumPy, Matplotlib/Seaborn)
 
-SQL
+  SQL
 
-PostgreSQL
+  PostgreSQL
 
-MySQL
+  MySQL
 
-SQL Server
+  SQL Server
 
-Power BI
+  Power BI
 
-Gamma (for presentation creation)
+  Gamma (for presentation creation)
 
 Jupyter Notebook / VS Code
 
-🔎 Project Steps
-1️⃣ Data Loading
+**🔎 Project Steps**
+1.  Data Loading
 
 Imported dataset using Python.
 
 Verified structure, column types, and missing values.
 
-2️⃣ Exploratory Data Analysis (EDA)
+2️.  Exploratory Data Analysis (EDA)
 
 Generated summary statistics.
 
@@ -62,7 +63,7 @@ Identified trends, distributions, and outliers.
 
 Visualized key variables using plots and charts.
 
-3️⃣ Data Cleaning
+3️.  Data Cleaning
 
 Handled missing values.
 
@@ -72,7 +73,7 @@ Standardized formats (dates, categorical values).
 
 Performed feature transformations where necessary.
 
-4️⃣ SQL Analysis
+4️.  SQL Analysis
 
 Imported cleaned data into:
 
@@ -94,7 +95,7 @@ Filtering and ranking
 
 Extracted insights directly from relational databases.
 
-5️⃣ Power BI Dashboard
+5️.  Power BI Dashboard
 
 Built interactive dashboards.
 
@@ -104,7 +105,7 @@ Added filters and slicers for user interaction.
 
 Designed visualizations for business decision-making.
 
-6️⃣ Reporting
+6️.  Reporting
 
 Generated a structured business report.
 
@@ -138,31 +139,30 @@ Delivered insights in both technical (SQL/Python) and business (Dashboard/Presen
 
 ▶️ How to Run
 1. Clone the Repository
-git clone <your-repository-link>
-cd <project-folder>
+git clone https://github.com/DeepanshiKashyap/customer_behavior_analysis.git
+cd customer_behavior_analysis
 
 2. Install Dependencies
 pip install -r requirements.txt
+          pandas
+          sqlalchemy
+          psycopg2-binary
 
-3. Run Python Analysis
+
+4. Run Python Analysis
 
 Open the Jupyter Notebook:
-
 jupyter notebook
-
-
 Run all cells to reproduce data cleaning and EDA.
 
 4. Run SQL Queries
 
 Import the cleaned dataset into PostgreSQL/MySQL/SQL Server.
-
 Execute queries provided in the /sql folder.
 
 5. Open Power BI Dashboard
 
 Open the .pbix file in Power BI Desktop.
-
 Refresh data if required.
 
 💡 Key Skills Demonstrated
@@ -179,10 +179,8 @@ Data Storytelling
 
 Business Insight Communication
 
-👩‍💻 Author
-
+Author
 Deepanshi Kashyap
-
 Data Analytics Enthusiast
 
 LinkedIn: https://www.linkedin.com/in/deepanshi-kashyap-862952290/
