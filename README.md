@@ -1,6 +1,6 @@
-📊 **Data Analytics Project**
+# 📊 **Data Analytics Project**
 
- ##**Overview**
+ ## **Overview**
 
 This project demonstrates an end-to-end data analytics workflow, starting from raw data processing in Python to building an interactive Power BI dashboard and generating a final presentation report.
 
@@ -21,7 +21,7 @@ The goal of this project is to showcase practical skills in:
 This project reflects real-world data analytics processes used in industry.
 
 
-##**📂 Dataset
+## **📂 Dataset
 **
   -The dataset was loaded and processed using Python.
 
@@ -32,7 +32,7 @@ This project reflects real-world data analytics processes used in industry.
 Note: The dataset used in this project is for educational/analytical purposes.
 
 
-##**🛠 Tools & Technologies**
+## **🛠 Tools & Technologies**
 
 -Python (Pandas, NumPy, Matplotlib/Seaborn)
 
@@ -51,7 +51,7 @@ Note: The dataset used in this project is for educational/analytical purposes.
 -Jupyter Notebook / VS Code
 
 
-##**🔎 Project Steps**
+## **🔎 Project Steps**
 1.  Data Loading
 
 -Imported dataset using Python.
@@ -117,7 +117,7 @@ Note: The dataset used in this project is for educational/analytical purposes.
 -Summarized insights, findings, and recommendations.
 
 
-##📊 Dashboard
+## 📊 Dashboard
 
 The Power BI dashboard includes:
 
@@ -131,7 +131,7 @@ The Power BI dashboard includes:
 
 -The dashboard is designed to be clear, business-focused, and decision-oriented.
 
-##📈 Results & Insights
+## 📈 Results & Insights
 
 -Identified key trends and performance drivers.
 
@@ -141,7 +141,7 @@ The Power BI dashboard includes:
 
 -Delivered insights in both technical (SQL/Python) and business (Dashboard/Presentation) formats.
 
-##▶️ How to Run
+## ▶️ How to Run
 1. Clone the Repository
 git clone https://github.com/DeepanshiKashyap/customer_behavior_analysis.git
 cd customer_behavior_analysis
@@ -169,7 +169,7 @@ Open the .pbix file in Power BI Desktop.
 Refresh data if required.
 
 
-##💡 Key Skills Demonstrated
+## 💡 Key Skills Demonstrated
 
 -Data Cleaning & Transformation
 
